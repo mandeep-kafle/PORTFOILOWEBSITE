@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mandeepkafle/static/css/main.f29e4850.chunk.css",
+    "main.js": "/mandeepkafle/static/js/main.b2b66dbe.chunk.js",
+    "main.js.map": "/mandeepkafle/static/js/main.b2b66dbe.chunk.js.map",
+    "runtime-main.js": "/mandeepkafle/static/js/runtime-main.461fa258.js",
+    "runtime-main.js.map": "/mandeepkafle/static/js/runtime-main.461fa258.js.map",
+    "static/js/2.9144fe10.chunk.js": "/mandeepkafle/static/js/2.9144fe10.chunk.js",
+    "static/js/2.9144fe10.chunk.js.map": "/mandeepkafle/static/js/2.9144fe10.chunk.js.map",
+    "static/js/3.b32747d5.chunk.js": "/mandeepkafle/static/js/3.b32747d5.chunk.js",
+    "static/js/3.b32747d5.chunk.js.map": "/mandeepkafle/static/js/3.b32747d5.chunk.js.map",
+    "index.html": "/mandeepkafle/index.html",
+    "static/css/main.f29e4850.chunk.css.map": "/mandeepkafle/static/css/main.f29e4850.chunk.css.map",
+    "static/js/2.9144fe10.chunk.js.LICENSE.txt": "/mandeepkafle/static/js/2.9144fe10.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mandeepkafle/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.461fa258.js",
+    "static/js/2.9144fe10.chunk.js",
+    "static/css/main.f29e4850.chunk.css",
+    "static/js/main.b2b66dbe.chunk.js"
+  ]
+}

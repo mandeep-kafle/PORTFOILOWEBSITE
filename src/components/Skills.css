@@ -1,0 +1,39 @@
+.skills__wrapper {
+
+    background-color: #FFFFFF;
+    padding: 4rem 0 2rem 0;
+
+
+
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.buttons__wrapper {
+
+    background: #FFFFFF;
+    padding-top: 40px;
+}
+
+.top__row {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+
+.bottom__row {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 300px;
+    padding-left: 300px;
+    padding-bottom: 50px;
+}

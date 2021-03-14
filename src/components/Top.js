@@ -3,7 +3,6 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import Tooltip from '@material-ui/core/Tooltip';
-import DeleteIcon from '@material-ui/icons/Delete';
 import IconButton from '@material-ui/core/IconButton';
 
 
@@ -12,9 +11,9 @@ function Top() {
     return (
         
              <div className='body__wrapper'>
-            <video src='/videos/video-1.mp4' autoPlay loop muted/>
+            <video src='/videos/video1.mp4' autoPlay loop muted/>
             <h1>Mandeep Kafle</h1>
-            <p>hello world</p>
+            <p>Lets build something amazing together</p>
             <div className ='follow__icons'>
                 
                
@@ -31,11 +30,11 @@ function Top() {
                 </Tooltip>
                 <Tooltip title="Follow">
                     <IconButton aria-label="Follow me on facebook">
-                    <FacebookIcon color="primary" fontSize="large" onClick={event =>  window.location.href='https://www.facebook.com/mandeep.kafle'}/>
+                    <FacebookIcon color="primary" fontSize="large" onClick={event =>  window.open('https://www.facebook.com/mandeep.kafle')}/>
                     </IconButton>
                 </Tooltip>
                 
-            
+        
                 
             </div>
         </div>

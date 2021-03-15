@@ -19,12 +19,12 @@ function Top() {
                
                 <Tooltip title="View Profile on Linkedin">
                     <IconButton aria-label="f">
-                    <LinkedInIcon color="primary" fontSize="large" onClick={event =>  window.location.href='https://www.linkedin.com/in/mandeep-kafle/'}/>
+                    <LinkedInIcon color="primary" fontSize="large" onClick={event =>  window.open('https://www.facebook.com/mandeep.kafle')}/>
                     </IconButton>
                 </Tooltip>
                 <Tooltip title="View code on github">
                     <IconButton aria-label="Follow me on facebook">
-                    <GitHubIcon color="action" fontSize="large" onClick={event =>  window.location.href='https://github.com/mandeep-kafle'}/>
+                    <GitHubIcon color="action" fontSize="large" onClick={event =>  window.open('https://www.facebook.com/mandeep.kafle')}/>
                     
                     </IconButton>
                 </Tooltip>

@@ -24,7 +24,7 @@ function Footer() {
                 <Tooltip title="View code on github">
                     <IconButton aria-label="Follow me on facebook">
                     <GitHubIcon color="primary" fontSize="large" onClick={event =>  window.open('https://github.com/mandeep-kafle')}/>
-                    
+                    s
                     </IconButton>
                 </Tooltip>
                 <Tooltip title="Follow">

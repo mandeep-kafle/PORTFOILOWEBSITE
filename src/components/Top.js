@@ -11,7 +11,7 @@ function Top() {
     return (
         
              <div className='body__wrapper'>
-            <video src='/videos/video1.mp4' autoPlay loop muted/>
+            <video src='videos/video1.mp4' autoPlay loop muted/>
             <h1>Mandeep Kafle</h1>
             <p>Lets build something amazing together</p>
             <div className ='follow__icons'>

@@ -18,12 +18,12 @@ function Footer() {
           <div class='social-icons'>
           <Tooltip title="View Profile on Linkedin">
                     <IconButton aria-label="f">
-                    <LinkedInIcon color="primary" fontSize="large" onClick={event =>  window.location.href='https://www.linkedin.com/in/mandeep-kafle/'}/>
+                    <LinkedInIcon color="primary" fontSize="large" onClick={event =>  window.open('https://www.linkedin.com/in/mandeep-kafle/')}/>
                     </IconButton>
                 </Tooltip>
                 <Tooltip title="View code on github">
                     <IconButton aria-label="Follow me on facebook">
-                    <GitHubIcon color="primary" fontSize="large" onClick={event =>  window.location.href='https://github.com/mandeep-kafle'}/>
+                    <GitHubIcon color="primary" fontSize="large" onClick={event =>  window.open('https://github.com/mandeep-kafle')}/>
                     
                     </IconButton>
                 </Tooltip>

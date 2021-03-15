@@ -23,14 +23,14 @@ function CardItem(props) {
                        
             <Tooltip title="View Website">
                 <IconButton aria-label="hh">
-                <WebIcon color="primary" fontSize="large" onClick={event =>  window.open(props.path2)}/>
+                <WebIcon color="primary" fontSize="large" onClick={event =>  window.open(props.path)}/>
                 </IconButton>
 
             </Tooltip>
             
             <Tooltip title="View Code on github">
                 <IconButton aria-label="hh">
-                <GitHubIcon color="primary" fontSize="large" onClick={event =>  window.open(props.path)}/> 
+                <GitHubIcon color="primary" fontSize="large" onClick={event =>  window.open(props.path2)}/> 
                 </IconButton>
 
             </Tooltip>
